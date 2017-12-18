@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\project visual studio\ctdl&gt\dslk\bt quan ly nhan vien\source.cpp(155): warning C4101: 'x': unreferenced local variable
+d:\project visual studio\ctdl&gt\dslk\bt quan ly nhan vien\source.cpp(169): warning C4101: 'x': unreferenced local variable
+d:\project visual studio\ctdl&gt\dslk\bt quan ly nhan vien\source.cpp(171): warning C4101: 'n': unreferenced local variable
+  BT quan ly nhan vien.vcxproj -> D:\Project visual studio\CTDL&GT\DSLK\Debug\BT quan ly nhan vien.exe
+  BT quan ly nhan vien.vcxproj -> D:\Project visual studio\CTDL&GT\DSLK\Debug\BT quan ly nhan vien.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  SoPhuc.cpp
+d:\project visual studio\th hdt\bt th tuan 2\cau 2\sophuc.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\project visual studio\th hdt\bt th tuan 2\cau 2\sophuc.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Cau 2.vcxproj -> D:\Project visual studio\TH HDT\BT TH TUAN 2\Debug\Cau 2.exe
+  Cau 2.vcxproj -> D:\Project visual studio\TH HDT\BT TH TUAN 2\Debug\Cau 2.pdb (Partial PDB)

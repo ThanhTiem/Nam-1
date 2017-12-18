@@ -1,0 +1,6 @@
+﻿  PhanSo.cpp
+d:\project visual studio\th hdt\bt th tuan 2\cau 1\phanso.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Cau 1.vcxproj -> D:\Project visual studio\TH HDT\BT TH TUAN 2\Debug\Cau 1.exe
+  Cau 1.vcxproj -> D:\Project visual studio\TH HDT\BT TH TUAN 2\Debug\Cau 1.pdb (Partial PDB)

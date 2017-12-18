@@ -1,0 +1,10 @@
+﻿  main.cpp
+  TamGiac.cpp
+d:\project visual studio\th hdt\bt th tuan 3\cau 2\tamgiac.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\project visual studio\th hdt\bt th tuan 3\cau 2\tamgiac.cpp(52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\project visual studio\th hdt\bt th tuan 3\cau 2\tamgiac.cpp(53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\project visual studio\th hdt\bt th tuan 3\cau 2\tamgiac.cpp(54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  DIEM.cpp
+  Generating Code...
+  Cau 2.vcxproj -> D:\Project visual studio\TH HDT\BT TH TUAN 3\Debug\Cau 2.exe
+  Cau 2.vcxproj -> D:\Project visual studio\TH HDT\BT TH TUAN 3\Debug\Cau 2.pdb (Partial PDB)

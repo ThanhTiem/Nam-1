@@ -1,0 +1,6 @@
+﻿  main.cpp
+  TimeSpan.cpp
+  Generating Code...
+d:\project visual studio\th hdt\bt th tuan 4\cau 1\timespan.cpp(120): warning C4715: 'TimeSpan::SoSanh': not all control paths return a value
+  Cau 1.vcxproj -> D:\Project visual studio\TH HDT\BT TH TUAN 4\Debug\Cau 1.exe
+  Cau 1.vcxproj -> D:\Project visual studio\TH HDT\BT TH TUAN 4\Debug\Cau 1.pdb (Partial PDB)

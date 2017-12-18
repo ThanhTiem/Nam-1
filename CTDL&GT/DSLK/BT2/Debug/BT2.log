@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\project visual studio\ctdl&gt\dslk\bt2\source.cpp(294): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\project visual studio\ctdl&gt\dslk\bt2\source.cpp(214): warning C4715: 'ChieuCaoCay': not all control paths return a value
+  BT2.vcxproj -> D:\Project visual studio\CTDL&GT\DSLK\Debug\BT2.exe
+  BT2.vcxproj -> D:\Project visual studio\CTDL&GT\DSLK\Debug\BT2.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\project visual studio\ctdl&gt\dslk\bt th on tap\source.cpp(143): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\project visual studio\ctdl&gt\dslk\bt th on tap\source.cpp(165): warning C4101: 'x': unreferenced local variable
+d:\project visual studio\ctdl&gt\dslk\bt th on tap\source.cpp(166): warning C4101: 'n': unreferenced local variable
+  BT TH On Tap.vcxproj -> D:\Project visual studio\CTDL&GT\DSLK\Debug\BT TH On Tap.exe
+  BT TH On Tap.vcxproj -> D:\Project visual studio\CTDL&GT\DSLK\Debug\BT TH On Tap.pdb (Partial PDB)
